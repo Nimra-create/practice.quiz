@@ -1,13 +1,4 @@
-// var a = 2;   simple program
- //var b = 3;
-// var c = 4;
- //var sum = a + b + c;
-// console.log(sum)
 
- //const num1 = parseInt(prompt('Enter the first number:'));
- //const num2 = parseInt(prompt('Enter the second number:'));
- //const sum = num1 + num2;
- //console.log(`${sum}`);
 
 
 
